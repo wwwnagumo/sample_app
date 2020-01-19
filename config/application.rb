@@ -17,3 +17,4 @@ module SampleApp
     # the framework and any gems in your application.
   end
 end
+Refile.secret_key = '0296b398bd54e6fef1629482258b8da90c26bec38822227e73fb4668ca713a090f63d05c222f8b75c6d2c3910397e35b70d0757e339cb22403be4fb2b23bd762'
